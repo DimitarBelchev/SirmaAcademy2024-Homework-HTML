@@ -1,0 +1,9 @@
+.fonts:first-of-type {
+  font-style: normal;
+  font-weight: bold;
+}
+
+.fonts:last-of-type {
+  font-style: italic;
+  font-weight: bolder;
+}

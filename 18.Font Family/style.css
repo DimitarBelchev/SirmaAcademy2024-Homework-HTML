@@ -1,0 +1,7 @@
+.fonts:first-of-type {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.fonts:last-of-type {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

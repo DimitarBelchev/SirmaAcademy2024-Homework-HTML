@@ -1,0 +1,7 @@
+.align:first-of-type {
+  text-align: left;
+}
+
+.align:last-of-type {
+  text-align: right;
+}

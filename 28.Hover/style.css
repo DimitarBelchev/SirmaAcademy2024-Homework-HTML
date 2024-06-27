@@ -1,0 +1,15 @@
+#google:hover {
+  padding: 5px;
+  background-color: green;
+}
+
+[type="button"] {
+  padding: 5px;
+  cursor: pointer;
+  background-color: red;
+}
+
+[type="button"]:hover {
+  background-color: greenyellow;
+  color: blue;
+}

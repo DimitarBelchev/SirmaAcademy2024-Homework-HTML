@@ -1,0 +1,9 @@
+html {
+  background-image: url("OIP.jpg");
+  background-size: cover;
+}
+
+div {
+  background-image: url("OIP.jpg");
+  background-size: contain;
+}

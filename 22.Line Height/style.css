@@ -1,0 +1,7 @@
+p:first-of-type {
+  line-height: 100px;
+}
+
+p:last-of-type {
+  line-height: 100em;
+}

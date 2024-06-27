@@ -1,0 +1,7 @@
+.fonts:first-of-type {
+  font-size: small;
+}
+
+.fonts:last-of-type {
+  font-size: larger;
+}
